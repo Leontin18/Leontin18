@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leontin18
 - 👀 I’m interested in coding webpage and games with pygames
 - 🌱 I’m currently learning python/pygames and Html/CSS
-- I learned all by myself mostly with these 4 amazing Youtube channels, and the site Open Classroom
+- I learned all by myself mostly with these 4 amazing Youtube channels, and the website Open Classroom
 - Graven / Online tutorials / Chis Courses / Clear Code
 
 <!---
